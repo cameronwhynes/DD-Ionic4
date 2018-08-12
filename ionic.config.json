@@ -1,0 +1,7 @@
+{
+  "name": "DD-Ionic4",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
